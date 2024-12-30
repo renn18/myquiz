@@ -14,7 +14,7 @@ const questions = [
         imageAlt: "Foto Presiden Obama, JFK, dan Richard Nixon"     
     },
     {
-        question: "Ketika terjadi tragedi terbunuhnya JFK dan pelengseran Soekarno yg diakibatkan oleh peristiwa G30SPKI. Nahh apa maksud dari semua itu?",
+        question: "JFK dan Soekarno adalah orang yang punya pemahaman komunisme. Ketika terjadi tragedi terbunuhnya JFK dan pelengseran Soekarno yg diakibatkan oleh peristiwa G30SPKI. Nahh apa maksud dari semua itu?",
         answers: ["SAYA TAKUT DITANGKAP BANG", "Kedua Tokoh itu dianggap ancaman serius oleh El*t Global", "Parah authornya, ngasi konspirasi n cocoklogi"],
         correctAnswer: 0,
         image: "assets/picture/jfk-irsoekarno.jpg",
