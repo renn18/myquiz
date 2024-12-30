@@ -14,8 +14,8 @@ const questions = [
         imageAlt: "Foto Presiden Obama, JFK, dan Richard Nixon"     
     },
     {
-        question: "JFK sangat dekat dengan Presiden Soekarno, keduanya adalah orang yang menganut paham komunisme dan menjalin hubungan kerjasama. Ketika terjadi tragedi terbunuhnya JFK dan pelengseran Soekarno yg diakibatkan oleh peristiwa G30SPKI. Nahh apa maksud dari semua itu?",
-        answers: ["SAYA TAKUT DITANGKAP BANG", "Kedua Tokoh itu dianggap ancaman serius oleh Pemerintah Dunia karna pemikiran komunisnya (kyk wanpis aja bang)", "Parah authornya, ngasi konspirasi n cocoklogi"],
+        question: "Ketika terjadi tragedi terbunuhnya JFK dan pelengseran Soekarno yg diakibatkan oleh peristiwa G30SPKI. Nahh apa maksud dari semua itu?",
+        answers: ["SAYA TAKUT DITANGKAP BANG", "Kedua Tokoh itu dianggap ancaman serius oleh El*t Global", "Parah authornya, ngasi konspirasi n cocoklogi"],
         correctAnswer: 0,
         image: "assets/picture/jfk-irsoekarno.jpg",
         imageAlt: "Foto Presiden JFK & Soekarno"    
@@ -56,7 +56,7 @@ const questions = [
         imageAlt: "Foto Atom dan Partikel Penyusunnya"     
     },
     {
-        question: "Pelanggaran HAM adalah salah satu penyimpangan sosial yang dilakukan oleh individu/kelompok orang demi mencapai tujuan pelaku dan korban tidak mendapatkan keadilan. Pada 12 September 1984 terjadi Peristiwa Tanjung Priok yang menelan korban lebih dari 200 orang. Sampai sekarang pemerintah seakan menutup mata dan tidak mengakui kalo itu adalah pelanggaran HAM. Menurut anda apa itu tergolong pelanggaran atau tidak? (ini bukan propaganda tetapi author hanya mengungkap fakta yg terjadi)",
+        question: "Pada 12 September 1984 terjadi Peristiwa Tanjung Priok yang menelan korban lebih dari 200 orang. Sampai sekarang pemerintah seakan menutup mata dan tidak mengakui kalo itu adalah pelanggaran HAM. Menurut anda apa itu tergolong pelanggaran atau tidak? (ini bukan propaganda tetapi author hanya mengungkap fakta yg terjadi)",
         answers: ["ya", "tidak", "ragu, takut besok saya ditangkap"],
         correctAnswer: 0,
         image: "assets/picture/tanjung_priok.jpg",
